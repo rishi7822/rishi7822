@@ -19,7 +19,8 @@
 
 ### Glad to see you here!  
 I am student pursuing computer engineering degree 
-I have interest in machine learning  
+#blockchain enthusist
+#you can reach me out at rishinaitik1234@gmail.com
   
 
 <br/>  
@@ -31,10 +32,10 @@ I have interest in machine learning
 - 🔭 I’m currently studying C++,JAva , pYTHON  
   
 
-- 🌱 I’m currently learning Machine Learning  
+- 🌱 I’m currently learning Blockchain 
   
 
-- ❓ Ask me about anything related to HTML and CSS  
+- ❓ Ask me about anything related to Python ,  Crypto , NFTs
   
 
 - I work at night when the world sleeps  
