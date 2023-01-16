@@ -29,16 +29,17 @@ I am student pursuing computer engineering degree
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently studying C++,JAva , pYTHON  
+- 🔭 I’m currently studying Computer Engineering
   
 
-- 🌱 I’m currently learning Blockchain 
+- 🌱 I’m currently learning Blockchain , Web3 
   
 
 - ❓ Ask me about anything related to Python ,  Crypto , NFTs
   
 
 - I work at night when the world sleeps  
+- I have also done a project on WEb3 . You can search the reposrtiary related to NFTS in My profile . It contains a projet on smart contracts on NFTS
 
 
 </td><td valign="top" width="50%">
