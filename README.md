@@ -40,7 +40,7 @@ I am student pursuing computer engineering degree
 
 - I work at night when the world sleeps  
 - I have also done a project on WEb3 . You can search the reposrtiary related to NFTS in My profile . It contains a projet on smart contracts on NFTS
-
+- More TO Come.... Stay tUned ..........
 
 </td><td valign="top" width="50%">
 
