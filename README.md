@@ -1,98 +1,81 @@
-## Hey 👋, I'm Rishikesh Badgujar  
-  
+<!-- GitHub Profile README – Rushikesh Badgujar -->
 
-<a href="https://github.com/rishi7822" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/rishibadgujar3" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rushikesh-badgujar-5a28a9211" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_riishiiii" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<h1 align="center">
+  Hi there, I'm <span style="color:#0EA5E9">Rushikesh Badgujar</span> 👋
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+ML+Engineer+%7C+Fullstack+Web+Builder;Business+Analytics+at+UCC%2C+Ireland;Open+to+Software+Engineering+roles!" />
+</p>
 
+---
 
-### Glad to see you here!  
-I am student pursuing computer engineering degree 
-#blockchain enthusist
-#you can reach me out at rishinaitik1234@gmail.com
-  
+## 🎯 About Me
 
-<br/>  
+- 🎓 Master’s in **Business Analytics**, UCC | BTech in **Computer Engineering**  
+- 💡 Passionate about building **AI-powered platforms** and smart web apps  
+- 🌍 Currently based in **Cork, Ireland**  
+- 🔍 Seeking roles in **Software Engineering**, **AI/ML**, or **Data Analytics**
 
+---
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently studying Computer Engineering
-  
-
-- 🌱 I’m currently learning Blockchain , Web3 
-  
-
-- ❓ Ask me about anything related to Python ,  Crypto , NFTs
-  
-
-
-</td><td valign="top" width="50%">
+## 🛠️ Tech Toolbox
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,mongodb,mysql,aws,git,github,docker,vscode,tailwind" />
+</div>
 
+---
 
-</td></tr></table>  
+## 📊 GitHub Stats
 
-<br/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishi7822&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi7822&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
 
+---
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" />  
-</div>  
+## 🚀 What I'm Working On
 
-<br/>  
+- 🤖 Building fullstack AI-based platforms (ML + React + FastAPI)
+- 📈 Solving real-world use cases with SHAP, XGBoost, and dashboards
+- 💬 Open to collaboration, internships, or freelance work
 
+---
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## ✨ AI Vibes
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishi7822&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="center">
+  <img src="https://lottie.host/embed/07792736-57f0-4e92-a58f-3e4b645f994f/b1GfEZ7QPO.json" width="300px" />
+</div>
 
-</td><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi7822&hide_border=true&layout=compact" align="left" style="width: 100%" />
+## 📬 Let's Connect
 
-</td></tr></table>  
+<p align="center">
+  <a href="https://linkedin.com/in/rushikesh-badgujar-5a28a9211" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rishi7822" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/rishibadgujar3" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:rushikeshbadgujar00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<br/>  
+---
 
-  
+## 🧠 Quote I Live By
+> *"Building intelligent systems that are simple, secure, and scalable."*
 
-<br/>  
+---
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishi7822&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishi7822&style=flat-square&color=blue" alt="Profile views" />
+</p>
